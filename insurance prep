@@ -1,0 +1,2 @@
+npm run build        # creates a `build/` folder
+cp florida-2-20-summary.pdf build/downloads/
